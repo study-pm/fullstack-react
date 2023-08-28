@@ -1,0 +1,28 @@
+{
+  "name": "fullstack-react",
+  "version": "0.0.0",
+  "description": "Fullstack React - The Complete Guide to ReactJS and Friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@study-pm.gitlab.com:fullstack-react-pm/fullstack-react.git"
+  },
+  "keywords": [
+    "study",
+    "tutorial",
+    "react"
+  ],
+  "author": "viktor",
+  "license": "ISC", 
+  "engines": {
+    "git": ">=2.11",
+    "node": ">=16.17.0"
+  },
+  "os": [
+    "linux"
+  ],
+  "private": true
+}
